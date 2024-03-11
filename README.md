@@ -1,2 +1,2 @@
 # DataScience_R
-Estudos para DataScience utilizando R, como foco em estatistica.
+Estudos para DataScience utilizando R, com foco em estatistica.
